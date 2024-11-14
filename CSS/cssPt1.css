@@ -1,0 +1,38 @@
+h1 {
+    color:#ff5100;
+    font-size: 64px;
+    font-family: "Indie Flower", cursive;
+    font-style: normal;
+       
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-family: "Indie Flower", cursive;
+    font-weight: 900;
+    
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    background: #ff5100;
+    
+}
+
+.box-2 {
+   
+    background: #ff008c;
+    height: 50px;
+    width: 50px;
+    
+    
+}
+
+.box-3 {
+    width: 50px;
+    height: 50px;
+    background: #155c72;
+}
+/* BOX SIZING */

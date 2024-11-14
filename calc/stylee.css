@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: calc(100vh - 200px); /*vh é como se a tela fosse quadradinhos 100 pegaa tela toda menos 200 pixels nesse exemplo */
+    width:calc((50vh + 200px) / 2); /*50 vh representa metade da tela dividido por 2. Pode ser feito qualquer calculo */
+    background-color: red;
+}
