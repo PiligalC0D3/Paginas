@@ -14,29 +14,29 @@
 
 .container-left{
     display: inline-block;
-    width: 65%;
+    width: 50%;
     padding: 100px;
     margin-top: 15%;
     margin-left: 122px;
-    float: left;
+    height: 100px;
+    
 }
 
 .container-right{
     display: inline-block;
     background-color: rgba(93,93,125,0.16);
-    height: 100vh;
+    height: 100%;
     position: absolute;
-    width: 33%;
-    float: right;
-}
+    width: 50%;
+    border: border-box;
 
 img{
     
 position: relative;
-top: 12%;
-right: 0px;
-width: 326px;
-max-width: 40%;
+top: 20%;
+right: 325px;
+width: 372px;
+max-width: 74%;
 float: right;
 
 }
@@ -149,9 +149,9 @@ a{
     img {
         position:static;
         max-width: 90%;
-        
-        
+          
     }
+    
     header {
         display: none;
         
@@ -178,7 +178,7 @@ a{
         margin: 40px auto;
         display: block;
         width: 206px;
-        height: 30px;
+        height: 35px;
         top: 288px;
         left: 54px;
         gap: 0px;
@@ -189,6 +189,3 @@ a{
 
     }
 }
-
-
-
