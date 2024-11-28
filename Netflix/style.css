@@ -66,13 +66,13 @@ video {
 }
 
 .imagem-carrossel {
-    height: 173px;
+    height: 113px;
 }
 
 #carouselExampleControls {
     background-color: transparent;
     position: absolute;
-    bottom: 10px;
+    bottom: 39px;
     left: 50px;
 }
 
@@ -106,9 +106,9 @@ video {
 
 .modal-conteudo {
     background-color: #181818;
-    margin: 30px auto; 
-    padding: 20px;
-    width: 60%;
+    margin: 27px auto; 
+    padding: 40px;
+    width: 50%;
     color: white;
 }
 /* 
